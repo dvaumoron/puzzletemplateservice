@@ -32,5 +32,5 @@ message RenderRequest {
 }
 
 message Rendered {
-    string content = 1;
+    bytes content = 1;
 }
