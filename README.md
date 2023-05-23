@@ -1,2 +1,3 @@
 # puzzletemplateservice
-gRPC service description to render template.
+
+[gRPC](https://grpc.io/) service description to render template.
